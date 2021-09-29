@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style-type: none;
+}
+body{
+   background-color: #000;
+   text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    color: red;
+}
+.stopwatch{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    font-size: 70px;
+    color: #ddd;
+    text-shadow: 1px 0px 8px rgba(224, 224, 224, 1);
+}
+a{
+    display: inline-block;
+    
+}
+a button{
+    padding: 12px 24px;
+    border: none;
+    border: 1px solid #fff;
+    background: transparent;
+    cursor: pointer;
+    color: #ddd;
+    font-weight: 600;
+    text-shadow: 1px 0px 8px rgba(224, 224, 224, 1);
+}
+h2{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    font-size: 70px;
+    color: #ddd;
+    text-shadow: 1px 0px 8px rgba(224, 224, 224, 1);
+}
